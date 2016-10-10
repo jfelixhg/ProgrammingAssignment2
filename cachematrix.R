@@ -1,4 +1,4 @@
-## These functions allows to calculate the inverse of a matrix, or if already calculated, gets the valus from cache. 
+## These functions allows to calculate the inverse of a matrix, or if already calculated, gets the values from cache. 
 
 ## functions do
 ## 1. set the value of the matrix
